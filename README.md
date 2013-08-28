@@ -1,4 +1,7 @@
-mappress
-========
+JEO
+===
+**MapPress is now JEO! We are now at https://github.com/cardume/jeo**
 
-A WordPress parent theme for interactive maps and journalism  http://cardume.github.io/jeo
+------------------------------
+
+Please change your references!
